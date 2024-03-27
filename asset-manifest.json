@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SuryaThanneru/week6.git/static/css/main.db62923b.css",
+    "main.js": "/SuryaThanneru/week6.git/static/js/main.bbf71863.js",
+    "static/js/453.69dfdd68.chunk.js": "/SuryaThanneru/week6.git/static/js/453.69dfdd68.chunk.js",
+    "index.html": "/SuryaThanneru/week6.git/index.html",
+    "main.db62923b.css.map": "/SuryaThanneru/week6.git/static/css/main.db62923b.css.map",
+    "main.bbf71863.js.map": "/SuryaThanneru/week6.git/static/js/main.bbf71863.js.map",
+    "453.69dfdd68.chunk.js.map": "/SuryaThanneru/week6.git/static/js/453.69dfdd68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.bbf71863.js"
+  ]
+}
