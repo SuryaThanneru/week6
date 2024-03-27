@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SuryaThanneru/week6.git/static/css/main.db62923b.css",
-    "main.js": "/SuryaThanneru/week6.git/static/js/main.bbf71863.js",
-    "static/js/453.69dfdd68.chunk.js": "/SuryaThanneru/week6.git/static/js/453.69dfdd68.chunk.js",
-    "index.html": "/SuryaThanneru/week6.git/index.html",
-    "main.db62923b.css.map": "/SuryaThanneru/week6.git/static/css/main.db62923b.css.map",
-    "main.bbf71863.js.map": "/SuryaThanneru/week6.git/static/js/main.bbf71863.js.map",
-    "453.69dfdd68.chunk.js.map": "/SuryaThanneru/week6.git/static/js/453.69dfdd68.chunk.js.map"
+    "main.css": "/week6/static/css/main.db62923b.css",
+    "main.js": "/week6/static/js/main.b7ebedc7.js",
+    "static/js/453.69dfdd68.chunk.js": "/week6/static/js/453.69dfdd68.chunk.js",
+    "index.html": "/week6/index.html",
+    "main.db62923b.css.map": "/week6/static/css/main.db62923b.css.map",
+    "main.b7ebedc7.js.map": "/week6/static/js/main.b7ebedc7.js.map",
+    "453.69dfdd68.chunk.js.map": "/week6/static/js/453.69dfdd68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.bbf71863.js"
+    "static/js/main.b7ebedc7.js"
   ]
 }
